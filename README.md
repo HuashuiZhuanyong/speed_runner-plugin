@@ -2,7 +2,7 @@
 
 **版本:1.16**
 **直接把intellij IDEA工作目录copy进来了=w=**
-**插件本体在\out\artifacts\speed_runner_jar**
+**插件本体请看release页**
 **使用IDEA的spigot插件模板来写的**
 
 是为了增加UHC的职业数量而写的插件
