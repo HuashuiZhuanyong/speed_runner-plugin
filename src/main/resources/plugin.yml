@@ -1,0 +1,5 @@
+name: Speed_runner
+version: 2.0
+main: hszy.ydy.speed_runner.Speed_runner
+api-version: 1.16
+author: ydy_dreemurr
